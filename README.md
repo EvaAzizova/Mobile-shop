@@ -1,2 +1,2 @@
 # Mobile-shop
-test for some company
+test for the company
